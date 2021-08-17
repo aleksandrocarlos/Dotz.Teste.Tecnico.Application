@@ -1,0 +1,9 @@
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.deps.json
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.dll
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.pdb
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.csprojAssemblyReference.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.AssemblyInfoInputs.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.AssemblyInfo.cs
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.csproj.CoreCompileInputs.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.dll
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Domain\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.pdb

@@ -1,0 +1,12 @@
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.deps.json
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.dll
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.pdb
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.dll
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\bin\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Domain.pdb
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.csprojAssemblyReference.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.AssemblyInfoInputs.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.AssemblyInfo.cs
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.csproj.CopyComplete
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.dll
+D:\Dotz5\Dotz.Teste.Tecnico.Application\Dotz.Teste.Tecnico.Infra.Data\obj\Debug\netcoreapp3.1\Dotz.Teste.Tecnico.Infra.Data.pdb
